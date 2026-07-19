@@ -37,8 +37,7 @@ informative:
 
 --- abstract
 
-TODO Abstract
-
+This document provides guidance ot authoring I-Ds within Github.
 
 --- middle
 
