@@ -2,7 +2,7 @@
 
 
 
-WG Working Group                                               D. Sibold
+Network Working Group                                          D. Sibold
 Internet-Draft                                                       CDS
 Intended status: Informational                              19 July 2026
 Expires: 20 January 2027
@@ -13,23 +13,19 @@ Expires: 20 January 2027
 
 Abstract
 
-   TODO Abstract
+   This document provides guidance ot authoring I-Ds within Github.
 
 About This Document
 
    This note is to be removed before publishing as an RFC.
 
    The latest revision of this draft can be found at
-   https://example.com/LATEST.  Status information for this document may
-   be found at https://datatracker.ietf.org/doc/draft-github-tutorial-
-   ds/.
-
-   Discussion of this document takes place on the WG Working Group
-   mailing list (mailto:WG@example.com), which is archived at
-   https://example.com/WG.
+   https://dsibold.github.io/draft-github-tutorial-ds/draft-github-
+   tutorial-ds.html.  Status information for this document may be found
+   at https://datatracker.ietf.org/doc/draft-github-tutorial-ds/.
 
    Source for this draft and an issue tracker can be found at
-   https://github.com/USER/REPO.
+   https://github.com/dsibold/draft-github-tutorial-ds.
 
 Status of This Memo
 
