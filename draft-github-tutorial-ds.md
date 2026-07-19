@@ -37,7 +37,7 @@ informative:
 
 --- abstract
 
-This document provides guidance ot authoring I-Ds within Github.
+This document provides guidance ot authoring I-Ds within Github. Additional language.
 
 --- middle
 
