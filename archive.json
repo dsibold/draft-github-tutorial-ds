@@ -1,0 +1,207 @@
+{
+  "magic": "E!vIA5L86J2I",
+  "timestamp": "2026-07-21T02:42:34.398176+00:00",
+  "repo": "dsibold/draft-github-tutorial-ds",
+  "labels": [
+    {
+      "name": "bug",
+      "description": "Something isn't working",
+      "color": "d73a4a"
+    },
+    {
+      "name": "documentation",
+      "description": "Improvements or additions to documentation",
+      "color": "0075ca"
+    },
+    {
+      "name": "duplicate",
+      "description": "This issue or pull request already exists",
+      "color": "cfd3d7"
+    },
+    {
+      "name": "enhancement",
+      "description": "New feature or request",
+      "color": "a2eeef"
+    },
+    {
+      "name": "good first issue",
+      "description": "Good for newcomers",
+      "color": "7057ff"
+    },
+    {
+      "name": "help wanted",
+      "description": "Extra attention is needed",
+      "color": "008672"
+    },
+    {
+      "name": "invalid",
+      "description": "This doesn't seem right",
+      "color": "e4e669"
+    },
+    {
+      "name": "question",
+      "description": "Further information is requested",
+      "color": "d876e3"
+    },
+    {
+      "name": "wontfix",
+      "description": "This will not be worked on",
+      "color": "ffffff"
+    }
+  ],
+  "issues": [
+    {
+      "number": 3,
+      "id": "I_kwDOTdKFvc8AAAABJWfgkg",
+      "title": "Abstract",
+      "url": "https://github.com/dsibold/draft-github-tutorial-ds/issues/3",
+      "state": "CLOSED",
+      "author": "dsibold",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [
+        "enhancement"
+      ],
+      "body": "The abstract is too short.",
+      "createdAt": "2026-07-19T11:46:34Z",
+      "updatedAt": "2026-07-19T11:53:09Z",
+      "closedAt": "2026-07-19T11:53:09Z",
+      "comments": []
+    }
+  ],
+  "pulls": [
+    {
+      "number": 1,
+      "id": "PR_kwDOTdKFvc7zhnAL",
+      "title": "Update abstract section with guidance on I-Ds",
+      "url": "https://github.com/dsibold/draft-github-tutorial-ds/pull/1",
+      "state": "MERGED",
+      "author": "dsibold",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "Add the abstract",
+      "createdAt": "2026-07-19T11:32:41Z",
+      "updatedAt": "2026-07-19T11:34:51Z",
+      "baseRepository": "dsibold/draft-github-tutorial-ds",
+      "baseRefName": "main",
+      "baseRefOid": "dab5455fdacf70337199423ed69f43768529d319",
+      "headRepository": "dsibold/draft-github-tutorial-ds",
+      "headRefName": "dsibold-patch-1",
+      "headRefOid": "81b1fa6635d2b42fbacba4a84af5e2c2067333e3",
+      "closedAt": "2026-07-19T11:34:51Z",
+      "mergedAt": "2026-07-19T11:34:51Z",
+      "mergedBy": "dsibold",
+      "mergeCommit": {
+        "oid": "da2db4d8abe28322c0f056beb145e36a3f370e3d"
+      },
+      "comments": [
+        {
+          "author": "dsibold",
+          "authorAssociation": "OWNER",
+          "body": "This is a **nice** abstract.",
+          "createdAt": "2026-07-19T11:34:11Z",
+          "updatedAt": "2026-07-19T11:34:11Z"
+        }
+      ],
+      "reviews": []
+    },
+    {
+      "number": 2,
+      "id": "PR_kwDOTdKFvc7zhs7G",
+      "title": "Update guidance text in draft-github-tutorial-ds.md",
+      "url": "https://github.com/dsibold/draft-github-tutorial-ds/pull/2",
+      "state": "MERGED",
+      "author": "dsibold",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "Added additional language to the guidance section.",
+      "createdAt": "2026-07-19T11:43:02Z",
+      "updatedAt": "2026-07-19T11:45:47Z",
+      "baseRepository": "dsibold/draft-github-tutorial-ds",
+      "baseRefName": "main",
+      "baseRefOid": "da2db4d8abe28322c0f056beb145e36a3f370e3d",
+      "headRepository": "dsibold/draft-github-tutorial-ds",
+      "headRefName": "dsibold-patch-2",
+      "headRefOid": "e275b939f39bf18f97d0a96a267483404c531e7b",
+      "closedAt": "2026-07-19T11:45:47Z",
+      "mergedAt": "2026-07-19T11:45:47Z",
+      "mergedBy": "dsibold",
+      "mergeCommit": {
+        "oid": "d1f51a1e6c6bf2cff381675ba9fbac0028282aef"
+      },
+      "comments": [],
+      "reviews": [
+        {
+          "id": "PRR_kwDOTdKFvc8AAAABGfiC9w",
+          "commit": {
+            "abbreviatedOid": "e275b93"
+          },
+          "author": "dsibold",
+          "authorAssociation": "OWNER",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2026-07-19T11:44:15Z",
+          "updatedAt": "2026-07-19T11:45:08Z",
+          "comments": [
+            {
+              "originalPosition": 5,
+              "body": "That is a good addition.",
+              "createdAt": "2026-07-19T11:44:15Z",
+              "updatedAt": "2026-07-19T11:45:08Z"
+            },
+            {
+              "originalPosition": 5,
+              "body": "Thanks",
+              "createdAt": "2026-07-19T11:44:27Z",
+              "updatedAt": "2026-07-19T11:45:08Z"
+            },
+            {
+              "originalPosition": 7,
+              "body": "Perfect",
+              "createdAt": "2026-07-19T11:44:58Z",
+              "updatedAt": "2026-07-19T11:45:08Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "id": "PR_kwDOTdKFvc7zhxKZ",
+      "title": "Enhance abstract with more guidance text",
+      "url": "https://github.com/dsibold/draft-github-tutorial-ds/pull/4",
+      "state": "MERGED",
+      "author": "dsibold",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "Expanded the abstract section with additional text.",
+      "createdAt": "2026-07-19T11:50:33Z",
+      "updatedAt": "2026-07-19T11:51:43Z",
+      "baseRepository": "dsibold/draft-github-tutorial-ds",
+      "baseRefName": "main",
+      "baseRefOid": "d1f51a1e6c6bf2cff381675ba9fbac0028282aef",
+      "headRepository": "dsibold/draft-github-tutorial-ds",
+      "headRefName": "dsibold-patch-3",
+      "headRefOid": "ca0a44e36110a8a8c61473c16aeb95c2d28e88ea",
+      "closedAt": "2026-07-19T11:51:43Z",
+      "mergedAt": "2026-07-19T11:51:43Z",
+      "mergedBy": "dsibold",
+      "mergeCommit": {
+        "oid": "55d27b5fb8054b55a60d751f77e31c6705306345"
+      },
+      "comments": [
+        {
+          "author": "dsibold",
+          "authorAssociation": "OWNER",
+          "body": "fixes #3 ",
+          "createdAt": "2026-07-19T11:50:59Z",
+          "updatedAt": "2026-07-19T11:50:59Z"
+        }
+      ],
+      "reviews": []
+    }
+  ]
+}
